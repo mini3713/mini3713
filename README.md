@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=6FC7E1&height=350&section=header&text=SeungMin%20Lee&fontSize=80&fontColor=000000)
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=6FC7E1&height=300&section=header&text=SeungMin%20Lee&fontSize=80&fontColor=000000)
 
 ### 📌 Stack 📌 
   #### Techs that I've used at least once
