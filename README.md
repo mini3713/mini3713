@@ -1,11 +1,11 @@
 <p align="center">
-# **SeungMin Lee**
+#**SeungMin Lee**
 </p>
 
 <p align="center">
-##### I'm engineering. 
+#####I'm engineering. 
 </p>
 
 <p align="center">
-:high_brightness: ### **Engineering Stack** :high_brightness:
+:high_brightness: ###**Engineering Stack** :high_brightness:
 </p>
