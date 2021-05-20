@@ -1,14 +1,11 @@
 <div align="center">
 
-  # **SeungMin Lee**
-  </br>
-  </br>
-  </br>
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=6FC7E1&height=300&section=header&text=SeungMin%20Lee&fontSize=80&fontColor=000000)
+
   
 ### 📌 Stack 📌 
-  #### Tech I've used at least once
+  #### Techs that I've used at least once
 ![Python Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) ![Matlab Badge](http://img.shields.io/badge/-Matlab-1478CD?style=flat-square) ![Trnsys Badge](http://img.shields.io/badge/-Trnsys-red?style=flat-square) ![EnergyPlus Badge](http://img.shields.io/badge/-EnergyPlus-orange?style=flat-square)</br>
-</br>
 </br>
 
 ### 🌱 Me! 🌱 
