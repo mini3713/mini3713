@@ -1,5 +1,5 @@
-<p align="center">
-#**SeungMin Lee**
+# <p align="center">
+**SeungMin Lee**
 </p>
 
 <p align="center">
@@ -9,3 +9,4 @@
 <p align="center">
 :high_brightness: ###**Engineering Stack** :high_brightness:
 </p>
+
