@@ -4,7 +4,6 @@
   </br>
   </br>
   </br>
-  </br>
   
 ### 📌 Stack 📌 
   #### Tech I've used at least once
